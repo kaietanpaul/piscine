@@ -53,3 +53,6 @@ dkms.conf
 
 # PDF's Zone Identifier (Windows)
 *.Identifier
+
+# Swap files
+*.swp
